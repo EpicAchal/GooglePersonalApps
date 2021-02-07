@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Achal\Pictures\ab.png</Source>
+    <SmallTileSource>C:\Users\Achal\Pictures\ab.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Achal\Pictures\ab.png</MediumTileSource>
+    <WideTileSource>C:\Users\Achal\Pictures\ab.png</WideTileSource>
+    <LargeTileSource>C:\Users\Achal\Pictures\ab.png</LargeTileSource>
+    <AppIconSource>C:\Users\Achal\Pictures\ab.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Achal\Pictures\ab.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Achal\Pictures\ab.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\bin\Debug\netstandard2.0\googleservice.Core.deps.json
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\bin\Debug\netstandard2.0\googleservice.Core.dll
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\bin\Debug\netstandard2.0\googleservice.Core.pdb
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.csprojAssemblyReference.cache
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.AssemblyInfoInputs.cache
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.AssemblyInfo.cs
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.dll
+C:\Users\Achal\source\repos\googleservice\googleservice.Core\obj\Debug\netstandard2.0\googleservice.Core.pdb
